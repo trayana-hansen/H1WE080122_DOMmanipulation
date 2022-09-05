@@ -51,3 +51,17 @@ button:hover {
 #btnpanel div:not(:first-of-type) {
   margin-top: 10px;
 }
+
+.red {
+  color: red;
+}
+.hide {
+  display: none;
+}
+.rotate {
+  transform: rotateY(180deg);
+}
+.font {
+  font-family: "Comic sans";
+  font-size: 50px;
+}
